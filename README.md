@@ -1,7 +1,7 @@
 # Card-Game-War
-War Card Game
+A Game of War
 
-Welcome to the War Card Game project! This is a simple card game application I created using Java and JavaFX. In the War Card Game, players compete to accumulate points based on the value of the cards they draw.
+Welcome to my War Card Game project! This is a simple card game application I created using Java and JavaFX. In the War Card Game, players compete to accumulate points based on the value of the cards they draw.
 Table of Contents
 
 
